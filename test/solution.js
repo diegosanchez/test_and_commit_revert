@@ -9,7 +9,7 @@ describe("Dojo", () => {
     });
 
     it('Prueba', () => {
-        expect('david').to.be.equal('david');
+        expect('nelson').to.be.equal('nelson');
 
     });
 });

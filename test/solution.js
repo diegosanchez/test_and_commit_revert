@@ -7,4 +7,9 @@ describe("Dojo", () => {
         expect('david').to.be.equal('david');
 
     });
+
+    it('Prueba', () => {
+        expect('david').to.be.equal('david');
+
+    });
 });

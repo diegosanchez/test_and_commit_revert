@@ -7,3 +7,4 @@ while(true); do
     echo "Pusher - `date` - Sleeping $n sec..."
     sleep $n;
 done;
+

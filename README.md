@@ -14,7 +14,7 @@ Running commiter: ```sh commit_forever.sh```
 
 Running pusher: ```sh push_forever.sh```
 
-# Nelson's personal thoughts
+## Nelson's personal thoughts
 
 1. It's better to add files, instead of edit, to avoid merge conflict.
 2. You have to agree a `design` and a `contract` before start, because any programmer could take a separate way.

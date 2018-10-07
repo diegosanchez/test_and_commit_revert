@@ -7,7 +7,6 @@ class Clock {
 
     tick() {
         this.ticks++
-        console.log(this.ticks)
         const hours = new Hours(this.ticks)
         return {
             second: "enabled",

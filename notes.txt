@@ -1,2 +1,4 @@
 - conflictos en el rebase
 - pruebas unitarias de Minutos primero
+- cambios de nombres conflictos
+- tests unitaris luego integración 

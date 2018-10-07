@@ -23,7 +23,7 @@ Running pusher: ```sh push_forever.sh```
 
 ## Diego's experiences (avoiding replication)
 
-1. It fosters UTDD instead of ATDD and it might cause [gold pating](https://en.wikipedia.org/wiki/Gold_plating_\(project_management\)) effect.
+1. It fosters UTDD instead of ATDD and it might cause [gold plating](https://en.wikipedia.org/wiki/Gold_plating_\(project_management\)) effect.
 2. It prevents running integration test which are by definition time consuming. 
 
 

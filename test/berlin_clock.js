@@ -4,7 +4,7 @@ const Clock = require('../src/clock.js');
 
 describe("Berlin Clock", () => {
 
-    it('Tick count Prueba', () => {
+    it('First second', () => {
         clock = new Clock();
 
         actual = clock.tick();

@@ -1,12 +1,18 @@
+const Hours = require('../src/hours.js');
+
 class Clock {
     constructor() {
+        this.ticks = 0
     }
 
     tick() {
+        this.ticks++
+        console.log(this.ticks)
+        const hours = new Hours(this.ticks)
         return {
             second: "enabled",
             five_hours: ["disabled", "disabled", "disabled", "disabled"],
-            hours: ["disabled", "disabled", "disabled", "disabled"],
+            hours: hours.asJson(),
             quarters: [
                 "disabled", 
                 "disabled", 

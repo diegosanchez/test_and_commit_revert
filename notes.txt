@@ -1,0 +1,2 @@
+- conflictos en el rebase
+- pruebas unitarias de Minutos primero

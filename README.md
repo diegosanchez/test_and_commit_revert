@@ -1,6 +1,9 @@
-#
+# test && commit || revert
 
-https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+Source article: https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+
+What we are doing?
+
 
 # Clock explanation
 

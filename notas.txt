@@ -1,0 +1,2 @@
+- cambios de nombres conflictos
+- tests unitaris luego integración 
